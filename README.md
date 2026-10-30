@@ -1,3 +1,4 @@
+# evenflow-studio
 # Evenflow Studio — Landing Page
 
 A responsive Next.js 14 + React + TypeScript landing page inspired by the supplied Evenflow Studio reference design and development brief.
